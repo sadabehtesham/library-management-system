@@ -19,6 +19,7 @@ A full-stack library management application built with React + Vite on the front
 ## Tech Stack
 
 ### Frontend
+
 - React
 - Vite
 - Redux Toolkit
@@ -28,6 +29,7 @@ A full-stack library management application built with React + Vite on the front
 - Chart.js
 
 ### Backend
+
 - Node.js
 - Express.js
 - MongoDB
