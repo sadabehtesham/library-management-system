@@ -1,0 +1,13 @@
+{
+  "name": "library-management-system",
+  "version": "1.0.0",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "start": "node server/server.js",
+    "dev": "nodemon server/server.js"
+  },
+  "dependencies": {
+    "jsonwebtoken": "^9.0.3"
+  }
+}
